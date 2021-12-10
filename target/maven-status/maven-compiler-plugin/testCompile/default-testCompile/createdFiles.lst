@@ -1,0 +1,7 @@
+com\basepage\AdminPage.class
+com\basepage\BasePage.class
+com\orange\generic\PropertyReader.class
+com\test\BaseTest.class
+com\orange\generic\DriverUtils.class
+com\basepage\LoginPage.class
+com\test\LoginTest.class
